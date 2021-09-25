@@ -1,0 +1,7 @@
+Files renamed this way:
+
+arc_01	05.07 ARC 13-24 EXP7.xls
+pvn_01	pvn exp5 1-12.xls
+vmh_01  VMH 30.06 EXP4 1-12.xls
+vmh_02	VMH exp 2 15.06 13-24.xls
+vmh_03	VMH only glut 1 1-12 EXP1.xls
